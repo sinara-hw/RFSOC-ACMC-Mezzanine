@@ -193,6 +193,16 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=75A1D410-9A73-4A8E-ADBA-1ED2D9B4336C
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R16|UniqueId=\UGRVPASW|Kind=1|AlternatePart= 
+Variation2=Designator=R7|UniqueId=\IENNRTPN|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RFMC\Design Rule Check - RFMC.html
 DItemRevisionGUID=
